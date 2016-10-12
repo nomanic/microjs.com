@@ -850,7 +850,7 @@ module.exports = [
     name: "Tempreites",
     github: "fiatjaf/tempreites",
     tags: ["templating"],
-    description: "Semantic templates. Binds data to HTML markup. Direto da roÃ§a for the browser and server, no DOM needed, just strings.",
+    description: "Semantic templates. Binds data to HTML markup. Direto da roça for the browser and server, no DOM needed, just strings.",
     url: "https://github.com/fiatjaf/tempreites",
     source: "https://raw.githubusercontent.com/fiatjaf/tempreites/master/src/tempreites.js"
   },
@@ -1434,7 +1434,7 @@ module.exports = [
     name: "Backbone",
     github: "jashkenas/backbone",
     tags: ["mvc", "data", "functional"],
-    description: "Lightweight MVCâ€”models with custom events, collections with rich enumerables, views and RESTful JSON.",
+    description: "Lightweight MVC—models with custom events, collections with rich enumerables, views and RESTful JSON.",
     url: "http://backbonejs.org/",
     source: "https://raw.githubusercontent.com/jashkenas/backbone/master/backbone.js"
   },
@@ -1636,9 +1636,9 @@ module.exports = [
   },
   /* Too old! Last pushed to GitHub @ 12/May/10, ignoring [2010-05-12T13:36:10Z] vs [undefined]
   {
-    name: "Ã‰mile",
+    name: "Émile",
     tags: ["animation", "jsanimation"],
-    description: "Ã‰mile is a no-frills stand-alone CSS animation JavaScript framework",
+    description: "Émile is a no-frills stand-alone CSS animation JavaScript framework",
     url: "https://github.com/madrobby/emile",
     source: "https://raw.githubusercontent.com/madrobby/emile/master/emile.js"
   },
@@ -1759,7 +1759,7 @@ module.exports = [
   {
     name: "Milk",
     tags: ["templating"],
-    description: "Spec-compatible (v1.1+Î») Mustache templating: written in CoffeeScript, runnable anywhere.",
+    description: "Spec-compatible (v1.1+?) Mustache templating: written in CoffeeScript, runnable anywhere.",
     url: "https://github.com/pvande/Milk",
     // version is current as of 18-JUN-2013, 2 years old
     source: "https://raw.githubusercontent.com/pvande/Milk/master/dist/v1.2.0/milk.js"
@@ -2577,7 +2577,7 @@ module.exports = [
   {
     name: "HTMLparser",
     tags: ["html", "dom","manipulation","json","parser","htmlparser"],
-    description: "It parses HTML Â¯\\_(ãƒ„)_/Â¯",
+    description: "It parses HTML ¯\\_(?)_/¯",
     url: "https://github.com/ogewan/HTMLparser",
     source: "https://raw.githubusercontent.com/ogewan/HTMLparser/master/HTMLparser.js"
   },
@@ -5057,5 +5057,21 @@ module.exports = [
     description: "Animation micro library. Vanilla JavaScript.",
     url: "https://github.com/branneman/TinyAnimate",
     source: "https://raw.githubusercontent.com/branneman/TinyAnimate/master/src/TinyAnimate.js"
+  },
+  {
+    name: "itsybitsytweener.js",
+    github: "nomanic/itsybitsytweener",
+    tags: ["animate", "animation", "easing", "tiny", "lightweight", "requestAnimationFrame"],
+    description: "Animation Tweener",
+    url: "https://github.com/nomanic/itsybitsytweener",
+    source: "https://raw.githubusercontent.com/nomanic/itsybitsytweener/master/itsybitsytweener.js"
+  },
+  {
+    name: "fisheye.js",
+    github: "nomanic/Responsive-FishEye",
+    tags: ["fisheye", "animation", "menu", "tiny", "lightweight", "touch"],
+    description: "Responsive Fisheye Menu",
+    url: "https://github.com/nomanic/Responsive-FishEye",
+    source: "https://raw.githubusercontent.com/nomanic/Responsive-FishEye/master/fisheye.js"
   }
 ];
